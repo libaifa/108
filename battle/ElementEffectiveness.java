@@ -1,5 +1,6 @@
-public class Elementeffectiveness {
+public class ElementEffectiveness {
 
-
+  private final Element eElement;
+  
 
 }
